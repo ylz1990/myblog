@@ -1,0 +1,511 @@
+INFO 2019-05-26 20:49:10,781 basehttp 154 "GET / HTTP/1.1" 200 16877
+WARNING 2019-05-26 20:49:10,803 log 228 Not Found: /css/base/common.css
+WARNING 2019-05-26 20:49:10,809 log 228 Not Found: /css/base/reset.css
+WARNING 2019-05-26 20:49:10,813 log 228 Not Found: /css/news/index.css
+WARNING 2019-05-26 20:49:10,820 basehttp 154 "GET /css/base/reset.css HTTP/1.1" 404 2048
+WARNING 2019-05-26 20:49:10,821 basehttp 154 "GET /css/news/index.css HTTP/1.1" 404 2048
+WARNING 2019-05-26 20:49:10,825 log 228 Not Found: /css/base/side.css
+WARNING 2019-05-26 20:49:10,830 log 228 Not Found: /js/commons.js
+WARNING 2019-05-26 20:49:10,843 log 228 Not Found: /images/youxi.png
+WARNING 2019-05-26 20:49:10,845 basehttp 154 "GET /css/base/side.css HTTP/1.1" 404 2045
+WARNING 2019-05-26 20:49:10,847 basehttp 154 "GET /css/base/common.css HTTP/1.1" 404 2051
+WARNING 2019-05-26 20:49:10,853 log 228 Not Found: /js/index.js
+WARNING 2019-05-26 20:49:10,853 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2033
+WARNING 2019-05-26 20:49:10,860 log 228 Not Found: /images/ui.png
+WARNING 2019-05-26 20:49:10,865 log 228 Not Found: /images/zimeiti.png
+WARNING 2019-05-26 20:49:10,882 basehttp 154 "GET /images/zimeiti.png HTTP/1.1" 404 2048
+WARNING 2019-05-26 20:49:10,874 log 228 Not Found: /images/dianshang.png
+WARNING 2019-05-26 20:49:10,879 log 228 Not Found: /images/python_gui.jpg
+WARNING 2019-05-26 20:49:10,880 basehttp 154 "GET /images/ui.png HTTP/1.1" 404 2033
+WARNING 2019-05-26 20:49:10,880 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2027
+WARNING 2019-05-26 20:49:10,866 basehttp 154 "GET /images/youxi.png HTTP/1.1" 404 2042
+WARNING 2019-05-26 20:49:10,886 basehttp 154 "GET /images/python_gui.jpg HTTP/1.1" 404 2057
+WARNING 2019-05-26 20:49:10,899 log 228 Not Found: /images/linux.jpg
+WARNING 2019-05-26 20:49:10,899 basehttp 154 "GET /images/dianshang.png HTTP/1.1" 404 2054
+WARNING 2019-05-26 20:49:10,904 log 228 Not Found: /images/python_advanced.jpg
+WARNING 2019-05-26 20:49:10,912 log 228 Not Found: /images/jichujiaochen.jpeg
+WARNING 2019-05-26 20:49:10,914 log 228 Not Found: /images/python_web.jpg
+WARNING 2019-05-26 20:49:10,915 basehttp 154 "GET /images/linux.jpg HTTP/1.1" 404 2042
+WARNING 2019-05-26 20:49:10,921 log 228 Not Found: /images/english.jpg
+WARNING 2019-05-26 20:49:10,926 basehttp 154 "GET /images/python_web.jpg HTTP/1.1" 404 2057
+WARNING 2019-05-26 20:49:10,927 basehttp 154 "GET /images/jichujiaochen.jpeg HTTP/1.1" 404 2069
+WARNING 2019-05-26 20:49:10,929 basehttp 154 "GET /images/english.jpg HTTP/1.1" 404 2048
+WARNING 2019-05-26 20:49:10,929 basehttp 154 "GET /images/python_advanced.jpg HTTP/1.1" 404 2072
+WARNING 2019-05-26 20:56:55,554 log 228 Not Found: /css/base/reset.css
+WARNING 2019-05-26 20:56:55,558 basehttp 154 "GET /css/base/reset.css HTTP/1.1" 404 2048
+WARNING 2019-05-26 20:56:55,564 log 228 Not Found: /css/news/index.css
+WARNING 2019-05-26 20:56:55,565 basehttp 154 "GET /css/news/index.css HTTP/1.1" 404 2048
+WARNING 2019-05-26 20:56:55,571 log 228 Not Found: /css/base/common.css
+WARNING 2019-05-26 20:56:55,575 basehttp 154 "GET /css/base/common.css HTTP/1.1" 404 2051
+WARNING 2019-05-26 20:56:55,581 log 228 Not Found: /css/base/side.css
+WARNING 2019-05-26 20:56:55,583 basehttp 154 "GET /css/base/side.css HTTP/1.1" 404 2045
+INFO 2019-05-26 21:02:46,203 basehttp 154 "GET / HTTP/1.1" 200 16877
+WARNING 2019-05-26 21:02:46,250 log 228 Not Found: /css/base/reset.css
+WARNING 2019-05-26 21:02:46,262 log 228 Not Found: /css/base/common.css
+WARNING 2019-05-26 21:02:46,268 log 228 Not Found: /css/news/index.css
+WARNING 2019-05-26 21:02:46,272 basehttp 154 "GET /css/base/reset.css HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:02:46,277 basehttp 154 "GET /css/news/index.css HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:02:46,282 log 228 Not Found: /css/base/side.css
+WARNING 2019-05-26 21:02:46,288 log 228 Not Found: /js/commons.js
+WARNING 2019-05-26 21:02:46,302 log 228 Not Found: /js/index.js
+WARNING 2019-05-26 21:02:46,307 log 228 Not Found: /images/ui.png
+WARNING 2019-05-26 21:02:46,312 log 228 Not Found: /images/youxi.png
+WARNING 2019-05-26 21:02:46,314 basehttp 154 "GET /css/base/side.css HTTP/1.1" 404 2045
+WARNING 2019-05-26 21:02:46,314 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:02:46,316 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2027
+WARNING 2019-05-26 21:02:46,313 basehttp 154 "GET /css/base/common.css HTTP/1.1" 404 2051
+WARNING 2019-05-26 21:02:46,320 basehttp 154 "GET /images/ui.png HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:02:46,327 log 228 Not Found: /images/python_gui.jpg
+WARNING 2019-05-26 21:02:46,340 log 228 Not Found: /images/python_advanced.jpg
+WARNING 2019-05-26 21:02:46,336 log 228 Not Found: /images/zimeiti.png
+WARNING 2019-05-26 21:02:46,356 log 228 Not Found: /images/dianshang.png
+WARNING 2019-05-26 21:02:46,357 basehttp 154 "GET /images/youxi.png HTTP/1.1" 404 2042
+WARNING 2019-05-26 21:02:46,359 log 228 Not Found: /images/linux.jpg
+WARNING 2019-05-26 21:02:46,360 basehttp 154 "GET /images/python_advanced.jpg HTTP/1.1" 404 2072
+WARNING 2019-05-26 21:02:46,364 basehttp 154 "GET /images/zimeiti.png HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:02:46,366 basehttp 154 "GET /images/python_gui.jpg HTTP/1.1" 404 2057
+WARNING 2019-05-26 21:02:46,366 basehttp 154 "GET /images/dianshang.png HTTP/1.1" 404 2054
+WARNING 2019-05-26 21:02:46,378 log 228 Not Found: /images/jichujiaochen.jpeg
+WARNING 2019-05-26 21:02:46,393 log 228 Not Found: /images/python_web.jpg
+WARNING 2019-05-26 21:02:46,399 basehttp 154 "GET /images/linux.jpg HTTP/1.1" 404 2042
+WARNING 2019-05-26 21:02:46,400 log 228 Not Found: /images/english.jpg
+WARNING 2019-05-26 21:02:46,403 basehttp 154 "GET /images/jichujiaochen.jpeg HTTP/1.1" 404 2069
+WARNING 2019-05-26 21:02:46,404 basehttp 154 "GET /images/python_web.jpg HTTP/1.1" 404 2057
+WARNING 2019-05-26 21:02:46,406 basehttp 154 "GET /images/english.jpg HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:02:46,492 log 228 Not Found: /js/commons.js
+WARNING 2019-05-26 21:02:46,495 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:02:46,512 log 228 Not Found: /js/index.js
+WARNING 2019-05-26 21:02:46,514 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2027
+INFO 2019-05-26 21:03:52,772 basehttp 154 "GET / HTTP/1.1" 200 16876
+WARNING 2019-05-26 21:03:52,802 log 228 Not Found: /images/ui.png
+WARNING 2019-05-26 21:03:52,808 log 228 Not Found: /images/youxi.png
+WARNING 2019-05-26 21:03:52,810 log 228 Not Found: /css/base/common.css
+WARNING 2019-05-26 21:03:52,835 basehttp 154 "GET /images/ui.png HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:03:52,821 log 228 Not Found: /css/news/index.css
+WARNING 2019-05-26 21:03:52,835 log 228 Not Found: /css/base/reset.css
+WARNING 2019-05-26 21:03:52,836 basehttp 154 "GET /images/youxi.png HTTP/1.1" 404 2042
+WARNING 2019-05-26 21:03:52,837 log 228 Not Found: /css/base/side.css
+WARNING 2019-05-26 21:03:52,838 basehttp 154 "GET /css/base/common.css HTTP/1.1" 404 2051
+WARNING 2019-05-26 21:03:52,849 basehttp 154 "GET /css/news/index.css HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:03:52,850 log 228 Not Found: /js/commons.js
+WARNING 2019-05-26 21:03:52,856 log 228 Not Found: /js/index.js
+WARNING 2019-05-26 21:03:52,857 basehttp 154 "GET /css/base/reset.css HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:03:52,861 basehttp 154 "GET /css/base/side.css HTTP/1.1" 404 2045
+WARNING 2019-05-26 21:03:52,884 log 228 Not Found: /images/dianshang.png
+WARNING 2019-05-26 21:03:52,912 basehttp 154 "GET /images/dianshang.png HTTP/1.1" 404 2054
+WARNING 2019-05-26 21:03:52,895 log 228 Not Found: /images/python_gui.jpg
+WARNING 2019-05-26 21:03:52,896 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2027
+WARNING 2019-05-26 21:03:52,896 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:03:52,910 log 228 Not Found: /images/linux.jpg
+WARNING 2019-05-26 21:03:52,884 log 228 Not Found: /images/zimeiti.png
+WARNING 2019-05-26 21:03:52,956 log 228 Not Found: /images/python_advanced.jpg
+WARNING 2019-05-26 21:03:52,957 basehttp 154 "GET /images/linux.jpg HTTP/1.1" 404 2042
+WARNING 2019-05-26 21:03:52,962 log 228 Not Found: /images/jichujiaochen.jpeg
+WARNING 2019-05-26 21:03:52,979 log 228 Not Found: /images/english.jpg
+WARNING 2019-05-26 21:03:52,970 log 228 Not Found: /js/index.js
+WARNING 2019-05-26 21:03:52,983 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2027
+WARNING 2019-05-26 21:03:52,965 basehttp 154 "GET /images/zimeiti.png HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:03:52,980 basehttp 154 "GET /images/jichujiaochen.jpeg HTTP/1.1" 404 2069
+WARNING 2019-05-26 21:03:52,980 basehttp 154 "GET /images/english.jpg HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:03:52,970 basehttp 154 "GET /images/python_gui.jpg HTTP/1.1" 404 2057
+WARNING 2019-05-26 21:03:52,990 basehttp 154 "GET /images/python_advanced.jpg HTTP/1.1" 404 2072
+WARNING 2019-05-26 21:03:53,000 log 228 Not Found: /images/python_web.jpg
+WARNING 2019-05-26 21:03:53,001 basehttp 154 "GET /images/python_web.jpg HTTP/1.1" 404 2057
+INFO 2019-05-26 21:03:54,218 basehttp 154 "GET / HTTP/1.1" 200 16876
+WARNING 2019-05-26 21:03:54,250 log 228 Not Found: /images/youxi.png
+WARNING 2019-05-26 21:03:54,261 log 228 Not Found: /images/ui.png
+WARNING 2019-05-26 21:03:54,273 basehttp 154 "GET /images/youxi.png HTTP/1.1" 404 2042
+WARNING 2019-05-26 21:03:54,265 log 228 Not Found: /css/base/side.css
+WARNING 2019-05-26 21:03:54,270 log 228 Not Found: /css/base/common.css
+WARNING 2019-05-26 21:03:54,274 basehttp 154 "GET /images/ui.png HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:03:54,266 log 228 Not Found: /css/base/reset.css
+WARNING 2019-05-26 21:03:54,280 basehttp 154 "GET /css/base/reset.css HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:03:54,275 basehttp 154 "GET /css/base/side.css HTTP/1.1" 404 2045
+WARNING 2019-05-26 21:03:54,273 log 228 Not Found: /css/news/index.css
+WARNING 2019-05-26 21:03:54,288 log 228 Not Found: /js/commons.js
+WARNING 2019-05-26 21:03:54,295 log 228 Not Found: /images/dianshang.png
+WARNING 2019-05-26 21:03:54,297 basehttp 154 "GET /css/base/common.css HTTP/1.1" 404 2051
+WARNING 2019-05-26 21:03:54,302 log 228 Not Found: /images/zimeiti.png
+WARNING 2019-05-26 21:03:54,308 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:03:54,308 basehttp 154 "GET /css/news/index.css HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:03:54,313 log 228 Not Found: /js/index.js
+WARNING 2019-05-26 21:03:54,320 log 228 Not Found: /images/python_gui.jpg
+WARNING 2019-05-26 21:03:54,321 basehttp 154 "GET /images/dianshang.png HTTP/1.1" 404 2054
+WARNING 2019-05-26 21:03:54,341 log 228 Not Found: /images/linux.jpg
+WARNING 2019-05-26 21:03:54,344 log 228 Not Found: /images/python_advanced.jpg
+WARNING 2019-05-26 21:03:54,356 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2027
+WARNING 2019-05-26 21:03:54,351 basehttp 154 "GET /images/zimeiti.png HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:03:54,351 basehttp 154 "GET /images/python_gui.jpg HTTP/1.1" 404 2057
+WARNING 2019-05-26 21:03:54,356 log 228 Not Found: /images/jichujiaochen.jpeg
+WARNING 2019-05-26 21:03:54,367 log 228 Not Found: /images/python_web.jpg
+WARNING 2019-05-26 21:03:54,368 basehttp 154 "GET /images/python_advanced.jpg HTTP/1.1" 404 2072
+WARNING 2019-05-26 21:03:54,376 log 228 Not Found: /images/english.jpg
+WARNING 2019-05-26 21:03:54,387 log 228 Not Found: /js/commons.js
+WARNING 2019-05-26 21:03:54,388 basehttp 154 "GET /images/jichujiaochen.jpeg HTTP/1.1" 404 2069
+WARNING 2019-05-26 21:03:54,389 basehttp 154 "GET /images/linux.jpg HTTP/1.1" 404 2042
+WARNING 2019-05-26 21:03:54,390 basehttp 154 "GET /images/python_web.jpg HTTP/1.1" 404 2057
+WARNING 2019-05-26 21:03:54,391 basehttp 154 "GET /images/english.jpg HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:03:54,395 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:03:54,407 log 228 Not Found: /js/index.js
+WARNING 2019-05-26 21:03:54,407 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2027
+INFO 2019-05-26 21:04:55,319 basehttp 154 "GET / HTTP/1.1" 200 16882
+WARNING 2019-05-26 21:04:55,349 log 228 Not Found: /images/ui.png
+WARNING 2019-05-26 21:04:55,358 log 228 Not Found: /images/youxi.png
+WARNING 2019-05-26 21:04:55,361 log 228 Not Found: /css/news/index.css
+WARNING 2019-05-26 21:04:55,370 log 228 Not Found: /css/base/side.css
+INFO 2019-05-26 21:04:55,373 basehttp 154 "GET /static/css/base/common.css HTTP/1.1" 200 3498
+WARNING 2019-05-26 21:04:55,375 basehttp 154 "GET /images/ui.png HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:04:55,384 basehttp 154 "GET /images/youxi.png HTTP/1.1" 404 2042
+WARNING 2019-05-26 21:04:55,382 log 228 Not Found: /css/base/reset.css
+WARNING 2019-05-26 21:04:55,409 basehttp 154 "GET /css/base/reset.css HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:04:55,398 log 228 Not Found: /js/commons.js
+WARNING 2019-05-26 21:04:55,408 basehttp 154 "GET /css/base/side.css HTTP/1.1" 404 2045
+WARNING 2019-05-26 21:04:55,392 basehttp 154 "GET /css/news/index.css HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:04:55,416 log 228 Not Found: /js/index.js
+WARNING 2019-05-26 21:04:55,428 log 228 Not Found: /images/linux.jpg
+WARNING 2019-05-26 21:04:55,428 log 228 Not Found: /images/dianshang.png
+WARNING 2019-05-26 21:04:55,436 log 228 Not Found: /images/zimeiti.png
+WARNING 2019-05-26 21:04:55,442 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:04:55,445 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2027
+WARNING 2019-05-26 21:04:55,451 log 228 Not Found: /images/python_gui.jpg
+WARNING 2019-05-26 21:04:55,486 basehttp 154 "GET /images/python_gui.jpg HTTP/1.1" 404 2057
+WARNING 2019-05-26 21:04:55,452 basehttp 154 "GET /images/linux.jpg HTTP/1.1" 404 2042
+WARNING 2019-05-26 21:04:55,464 basehttp 154 "GET /images/zimeiti.png HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:04:55,461 basehttp 154 "GET /images/dianshang.png HTTP/1.1" 404 2054
+WARNING 2019-05-26 21:04:55,502 log 228 Not Found: /images/jichujiaochen.jpeg
+WARNING 2019-05-26 21:04:55,503 log 228 Not Found: /images/python_advanced.jpg
+WARNING 2019-05-26 21:04:55,505 log 228 Not Found: /images/english.jpg
+WARNING 2019-05-26 21:04:55,515 log 228 Not Found: /images/python_web.jpg
+WARNING 2019-05-26 21:04:55,516 basehttp 154 "GET /images/jichujiaochen.jpeg HTTP/1.1" 404 2069
+WARNING 2019-05-26 21:04:55,516 basehttp 154 "GET /images/python_advanced.jpg HTTP/1.1" 404 2072
+WARNING 2019-05-26 21:04:55,518 basehttp 154 "GET /images/english.jpg HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:04:55,523 basehttp 154 "GET /images/python_web.jpg HTTP/1.1" 404 2057
+INFO 2019-05-26 21:05:14,129 basehttp 154 "GET / HTTP/1.1" 200 16888
+WARNING 2019-05-26 21:05:14,170 log 228 Not Found: /js/commons.js
+WARNING 2019-05-26 21:05:14,173 log 228 Not Found: /css/base/side.css
+WARNING 2019-05-26 21:05:14,176 log 228 Not Found: /..static/css/base/reset.css
+WARNING 2019-05-26 21:05:14,185 log 228 Not Found: /images/youxi.png
+WARNING 2019-05-26 21:05:14,190 log 228 Not Found: /images/ui.png
+WARNING 2019-05-26 21:05:14,193 log 228 Not Found: /css/news/index.css
+WARNING 2019-05-26 21:05:14,194 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:05:14,203 basehttp 154 "GET /images/youxi.png HTTP/1.1" 404 2042
+WARNING 2019-05-26 21:05:14,202 basehttp 154 "GET /css/base/side.css HTTP/1.1" 404 2045
+WARNING 2019-05-26 21:05:14,200 basehttp 154 "GET /..static/css/base/reset.css HTTP/1.1" 404 2075
+WARNING 2019-05-26 21:05:14,204 basehttp 154 "GET /css/news/index.css HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:05:14,206 basehttp 154 "GET /images/ui.png HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:05:14,212 log 228 Not Found: /js/index.js
+WARNING 2019-05-26 21:05:14,222 log 228 Not Found: /images/python_gui.jpg
+WARNING 2019-05-26 21:05:14,236 log 228 Not Found: /images/dianshang.png
+WARNING 2019-05-26 21:05:14,245 log 228 Not Found: /images/python_advanced.jpg
+WARNING 2019-05-26 21:05:14,255 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2027
+WARNING 2019-05-26 21:05:14,254 log 228 Not Found: /images/linux.jpg
+WARNING 2019-05-26 21:05:14,258 basehttp 154 "GET /images/python_gui.jpg HTTP/1.1" 404 2057
+WARNING 2019-05-26 21:05:14,264 log 228 Not Found: /images/zimeiti.png
+WARNING 2019-05-26 21:05:14,264 basehttp 154 "GET /images/dianshang.png HTTP/1.1" 404 2054
+WARNING 2019-05-26 21:05:14,274 log 228 Not Found: /js/commons.js
+WARNING 2019-05-26 21:05:14,274 basehttp 154 "GET /images/python_advanced.jpg HTTP/1.1" 404 2072
+WARNING 2019-05-26 21:05:14,276 basehttp 154 "GET /images/linux.jpg HTTP/1.1" 404 2042
+WARNING 2019-05-26 21:05:14,284 log 228 Not Found: /images/jichujiaochen.jpeg
+WARNING 2019-05-26 21:05:14,291 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:05:14,290 basehttp 154 "GET /images/zimeiti.png HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:05:14,298 log 228 Not Found: /images/english.jpg
+WARNING 2019-05-26 21:05:14,303 basehttp 154 "GET /images/jichujiaochen.jpeg HTTP/1.1" 404 2069
+WARNING 2019-05-26 21:05:14,310 log 228 Not Found: /js/index.js
+WARNING 2019-05-26 21:05:14,315 log 228 Not Found: /images/python_web.jpg
+WARNING 2019-05-26 21:05:14,318 basehttp 154 "GET /images/english.jpg HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:05:14,330 basehttp 154 "GET /images/python_web.jpg HTTP/1.1" 404 2057
+WARNING 2019-05-26 21:05:14,330 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2027
+INFO 2019-05-26 21:05:38,525 basehttp 154 "GET / HTTP/1.1" 200 16889
+WARNING 2019-05-26 21:05:38,552 log 228 Not Found: /images/youxi.png
+WARNING 2019-05-26 21:05:38,565 log 228 Not Found: /js/commons.js
+WARNING 2019-05-26 21:05:38,566 log 228 Not Found: /css/base/side.css
+WARNING 2019-05-26 21:05:38,584 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:05:38,579 log 228 Not Found: /images/ui.png
+WARNING 2019-05-26 21:05:38,583 log 228 Not Found: /js/index.js
+WARNING 2019-05-26 21:05:38,576 log 228 Not Found: /css/news/index.css
+WARNING 2019-05-26 21:05:38,586 basehttp 154 "GET /css/base/side.css HTTP/1.1" 404 2045
+WARNING 2019-05-26 21:05:38,587 basehttp 154 "GET /images/youxi.png HTTP/1.1" 404 2042
+WARNING 2019-05-26 21:05:38,600 log 228 Not Found: /images/dianshang.png
+WARNING 2019-05-26 21:05:38,610 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2027
+WARNING 2019-05-26 21:05:38,618 log 228 Not Found: /images/zimeiti.png
+WARNING 2019-05-26 21:05:38,618 basehttp 154 "GET /css/news/index.css HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:05:38,619 basehttp 154 "GET /images/ui.png HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:05:38,620 log 228 Not Found: /images/python_gui.jpg
+WARNING 2019-05-26 21:05:38,630 log 228 Not Found: /images/linux.jpg
+WARNING 2019-05-26 21:05:38,632 basehttp 154 "GET /images/zimeiti.png HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:05:38,641 log 228 Not Found: /images/jichujiaochen.jpeg
+WARNING 2019-05-26 21:05:38,647 log 228 Not Found: /images/python_advanced.jpg
+WARNING 2019-05-26 21:05:38,649 basehttp 154 "GET /images/python_gui.jpg HTTP/1.1" 404 2057
+WARNING 2019-05-26 21:05:38,658 basehttp 154 "GET /images/dianshang.png HTTP/1.1" 404 2054
+WARNING 2019-05-26 21:05:38,682 basehttp 154 "GET /images/python_advanced.jpg HTTP/1.1" 404 2072
+WARNING 2019-05-26 21:05:38,663 basehttp 154 "GET /images/linux.jpg HTTP/1.1" 404 2042
+WARNING 2019-05-26 21:05:38,683 basehttp 154 "GET /images/jichujiaochen.jpeg HTTP/1.1" 404 2069
+WARNING 2019-05-26 21:05:38,662 log 228 Not Found: /images/english.jpg
+WARNING 2019-05-26 21:05:38,689 log 228 Not Found: /images/python_web.jpg
+WARNING 2019-05-26 21:05:38,694 basehttp 154 "GET /images/python_web.jpg HTTP/1.1" 404 2057
+WARNING 2019-05-26 21:05:38,690 log 228 Not Found: /js/commons.js
+WARNING 2019-05-26 21:05:38,693 basehttp 154 "GET /images/english.jpg HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:05:38,699 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:05:38,715 log 228 Not Found: /js/index.js
+WARNING 2019-05-26 21:05:38,716 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2027
+INFO 2019-05-26 21:06:06,942 basehttp 154 "GET / HTTP/1.1" 200 16905
+WARNING 2019-05-26 21:06:06,973 log 228 Not Found: /images/youxi.png
+WARNING 2019-05-26 21:06:06,979 log 228 Not Found: /images/ui.png
+WARNING 2019-05-26 21:06:06,990 basehttp 154 "GET /images/ui.png HTTP/1.1" 404 2033
+INFO 2019-05-26 21:06:06,988 basehttp 154 "GET /static//css/base/side.css HTTP/1.1" 200 4428
+WARNING 2019-05-26 21:06:06,987 log 228 Not Found: /js/index.js
+WARNING 2019-05-26 21:06:06,996 log 228 Not Found: /images/dianshang.png
+WARNING 2019-05-26 21:06:06,997 basehttp 154 "GET /images/youxi.png HTTP/1.1" 404 2042
+WARNING 2019-05-26 21:06:07,001 log 228 Not Found: /js/commons.js
+WARNING 2019-05-26 21:06:07,010 log 228 Not Found: /images/python_gui.jpg
+WARNING 2019-05-26 21:06:07,012 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2027
+WARNING 2019-05-26 21:06:07,021 log 228 Not Found: /images/zimeiti.png
+WARNING 2019-05-26 21:06:07,026 log 228 Not Found: /images/linux.jpg
+INFO 2019-05-26 21:06:07,027 basehttp 154 "GET /static//css/news/index.css HTTP/1.1" 200 5500
+WARNING 2019-05-26 21:06:07,028 basehttp 154 "GET /images/dianshang.png HTTP/1.1" 404 2054
+WARNING 2019-05-26 21:06:07,029 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:06:07,039 basehttp 154 "GET /images/python_gui.jpg HTTP/1.1" 404 2057
+WARNING 2019-05-26 21:06:07,039 basehttp 154 "GET /images/linux.jpg HTTP/1.1" 404 2042
+WARNING 2019-05-26 21:06:07,046 log 228 Not Found: /images/python_advanced.jpg
+WARNING 2019-05-26 21:06:07,047 basehttp 154 "GET /images/zimeiti.png HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:06:07,057 log 228 Not Found: /images/english.jpg
+WARNING 2019-05-26 21:06:07,063 log 228 Not Found: /images/jichujiaochen.jpeg
+WARNING 2019-05-26 21:06:07,071 basehttp 154 "GET /images/python_advanced.jpg HTTP/1.1" 404 2072
+WARNING 2019-05-26 21:06:07,077 log 228 Not Found: /images/python_web.jpg
+WARNING 2019-05-26 21:06:07,078 basehttp 154 "GET /images/english.jpg HTTP/1.1" 404 2048
+INFO 2019-05-26 21:06:07,079 basehttp 154 "GET /static//images/wechat.jpg HTTP/1.1" 200 41182
+WARNING 2019-05-26 21:06:07,085 basehttp 154 "GET /images/jichujiaochen.jpeg HTTP/1.1" 404 2069
+WARNING 2019-05-26 21:06:07,083 basehttp 154 "GET /images/python_web.jpg HTTP/1.1" 404 2057
+WARNING 2019-05-26 21:06:07,123 log 228 Not Found: /js/index.js
+WARNING 2019-05-26 21:06:07,125 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2027
+INFO 2019-05-26 21:06:45,297 basehttp 154 "GET / HTTP/1.1" 200 16907
+WARNING 2019-05-26 21:06:45,343 log 228 Not Found: /images/dianshang.png
+WARNING 2019-05-26 21:06:45,346 basehttp 154 "GET /images/dianshang.png HTTP/1.1" 404 2054
+WARNING 2019-05-26 21:06:45,345 log 228 Not Found: /js/commons.js
+WARNING 2019-05-26 21:06:45,371 log 228 Not Found: /images/zimeiti.png
+WARNING 2019-05-26 21:06:45,372 log 228 Not Found: /images/ui.png
+WARNING 2019-05-26 21:06:45,380 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:06:45,380 log 228 Not Found: /images/youxi.png
+WARNING 2019-05-26 21:06:45,387 log 228 Not Found: /images/python_gui.jpg
+WARNING 2019-05-26 21:06:45,392 log 228 Not Found: /js/index.js
+WARNING 2019-05-26 21:06:45,399 log 228 Not Found: /images/english.jpg
+WARNING 2019-05-26 21:06:45,401 basehttp 154 "GET /images/zimeiti.png HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:06:45,402 basehttp 154 "GET /images/youxi.png HTTP/1.1" 404 2042
+WARNING 2019-05-26 21:06:45,402 basehttp 154 "GET /images/ui.png HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:06:45,409 basehttp 154 "GET /images/python_gui.jpg HTTP/1.1" 404 2057
+WARNING 2019-05-26 21:06:45,410 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2027
+WARNING 2019-05-26 21:06:45,426 log 228 Not Found: /images/jichujiaochen.jpeg
+WARNING 2019-05-26 21:06:45,432 log 228 Not Found: /images/linux.jpg
+WARNING 2019-05-26 21:06:45,446 log 228 Not Found: /images/python_advanced.jpg
+WARNING 2019-05-26 21:06:45,447 log 228 Not Found: /images/python_web.jpg
+WARNING 2019-05-26 21:06:45,447 basehttp 154 "GET /images/english.jpg HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:06:45,451 basehttp 154 "GET /images/linux.jpg HTTP/1.1" 404 2042
+WARNING 2019-05-26 21:06:45,451 basehttp 154 "GET /images/python_advanced.jpg HTTP/1.1" 404 2072
+WARNING 2019-05-26 21:06:45,452 basehttp 154 "GET /images/python_web.jpg HTTP/1.1" 404 2057
+WARNING 2019-05-26 21:06:45,455 basehttp 154 "GET /images/jichujiaochen.jpeg HTTP/1.1" 404 2069
+INFO 2019-05-26 21:07:05,763 basehttp 154 "GET / HTTP/1.1" 200 16906
+WARNING 2019-05-26 21:07:05,797 log 228 Not Found: /images/youxi.png
+INFO 2019-05-26 21:07:05,807 basehttp 154 "GET /static/css/news/index.css HTTP/1.1" 200 5500
+WARNING 2019-05-26 21:07:05,807 log 228 Not Found: /images/dianshang.png
+WARNING 2019-05-26 21:07:05,812 log 228 Not Found: /js/index.js
+WARNING 2019-05-26 21:07:05,813 log 228 Not Found: /js/commons.js
+WARNING 2019-05-26 21:07:05,819 log 228 Not Found: /images/ui.png
+WARNING 2019-05-26 21:07:05,829 log 228 Not Found: /images/zimeiti.png
+WARNING 2019-05-26 21:07:05,829 basehttp 154 "GET /images/youxi.png HTTP/1.1" 404 2042
+WARNING 2019-05-26 21:07:05,831 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2027
+WARNING 2019-05-26 21:07:05,832 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:07:05,834 basehttp 154 "GET /images/ui.png HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:07:05,852 log 228 Not Found: /images/python_gui.jpg
+WARNING 2019-05-26 21:07:05,873 basehttp 154 "GET /images/python_gui.jpg HTTP/1.1" 404 2057
+WARNING 2019-05-26 21:07:05,866 log 228 Not Found: /images/jichujiaochen.jpeg
+WARNING 2019-05-26 21:07:05,865 log 228 Not Found: /images/python_advanced.jpg
+WARNING 2019-05-26 21:07:05,872 basehttp 154 "GET /images/dianshang.png HTTP/1.1" 404 2054
+WARNING 2019-05-26 21:07:05,872 log 228 Not Found: /images/english.jpg
+WARNING 2019-05-26 21:07:05,876 basehttp 154 "GET /images/zimeiti.png HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:07:05,879 basehttp 154 "GET /images/jichujiaochen.jpeg HTTP/1.1" 404 2069
+WARNING 2019-05-26 21:07:05,880 basehttp 154 "GET /images/python_advanced.jpg HTTP/1.1" 404 2072
+WARNING 2019-05-26 21:07:05,888 log 228 Not Found: /js/index.js
+WARNING 2019-05-26 21:07:05,889 basehttp 154 "GET /images/english.jpg HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:07:05,904 log 228 Not Found: /images/linux.jpg
+WARNING 2019-05-26 21:07:05,915 basehttp 154 "GET /images/linux.jpg HTTP/1.1" 404 2042
+WARNING 2019-05-26 21:07:05,913 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2027
+WARNING 2019-05-26 21:07:05,908 log 228 Not Found: /images/python_web.jpg
+WARNING 2019-05-26 21:07:05,917 basehttp 154 "GET /images/python_web.jpg HTTP/1.1" 404 2057
+INFO 2019-05-26 21:09:53,320 basehttp 154 "GET / HTTP/1.1" 200 16997
+WARNING 2019-05-26 21:09:53,365 log 228 Not Found: /js/commons.js
+WARNING 2019-05-26 21:09:53,376 basehttp 154 "GET /js/commons.js HTTP/1.1" 404 2033
+WARNING 2019-05-26 21:09:53,382 log 228 Not Found: /js/index.js
+INFO 2019-05-26 21:09:53,394 basehttp 154 "GET /static/images/python_gui.jpg HTTP/1.1" 200 24129
+INFO 2019-05-26 21:09:53,398 basehttp 154 "GET /static/images/zimeiti.png HTTP/1.1" 200 112767
+INFO 2019-05-26 21:09:53,399 basehttp 154 "GET /static/images/youxi.png HTTP/1.1" 200 447834
+WARNING 2019-05-26 21:09:53,400 basehttp 154 "GET /js/index.js HTTP/1.1" 404 2027
+INFO 2019-05-26 21:09:53,406 basehttp 154 "GET /static/images/ui.png HTTP/1.1" 200 108619
+INFO 2019-05-26 21:09:53,413 basehttp 154 "GET /static/images/jichujiaochen.jpeg HTTP/1.1" 200 11286
+WARNING 2019-05-26 21:09:53,420 log 228 Not Found: /images/english.jpg
+WARNING 2019-05-26 21:09:53,449 log 228 Not Found: /images/python_web.jpg
+WARNING 2019-05-26 21:09:53,453 log 228 Not Found: /images/linux.jpg
+INFO 2019-05-26 21:09:53,454 basehttp 154 "GET /static/images/linux.jpg HTTP/1.1" 200 62189
+INFO 2019-05-26 21:09:53,455 basehttp 154 "GET /static/images/dianshang.png HTTP/1.1" 200 342554
+INFO 2019-05-26 21:09:53,456 basehttp 154 "GET /static/images/python_advanced.jpg HTTP/1.1" 200 120059
+WARNING 2019-05-26 21:09:53,457 basehttp 154 "GET /images/english.jpg HTTP/1.1" 404 2048
+WARNING 2019-05-26 21:09:53,457 basehttp 154 "GET /images/python_web.jpg HTTP/1.1" 404 2057
+WARNING 2019-05-26 21:09:53,466 basehttp 154 "GET /images/linux.jpg HTTP/1.1" 404 2042
+INFO 2019-05-26 21:10:59,023 basehttp 154 "GET / HTTP/1.1" 200 17032
+INFO 2019-05-26 21:10:59,051 basehttp 154 "GET /static/js/index.js HTTP/1.1" 200 1510
+INFO 2019-05-26 21:10:59,055 basehttp 154 "GET /static/js/commons.js HTTP/1.1" 200 2421
+INFO 2019-05-26 21:10:59,062 basehttp 154 "GET /static/images/python_web.jpg HTTP/1.1" 200 45717
+INFO 2019-05-26 21:10:59,063 basehttp 154 "GET /static/images/english.jpg HTTP/1.1" 200 137605
+INFO 2019-05-26 21:22:56,864 basehttp 154 "GET / HTTP/1.1" 200 17035
+INFO 2019-05-26 21:23:04,240 basehttp 154 "GET / HTTP/1.1" 200 17035
+ERROR 2019-05-26 21:35:57,262 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/urls/base.py", line 75, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'course'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pyvip/github/myblog/mysite/apps/news/views.py", line 6, in new
+    return render(request,"news/index.html")
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/defaulttags.py", line 442, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/urls/base.py", line 86, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'course' is not a registered namespace
+ERROR 2019-05-26 21:35:57,266 basehttp 154 "GET / HTTP/1.1" 500 133098
+ERROR 2019-05-26 21:37:02,555 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/urls/base.py", line 75, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'course'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pyvip/github/myblog/mysite/apps/news/views.py", line 6, in new
+    return render(request,"news/index.html")
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/defaulttags.py", line 442, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/urls/base.py", line 86, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'course' is not a registered namespace
+ERROR 2019-05-26 21:37:02,557 basehttp 154 "GET / HTTP/1.1" 500 132881
+ERROR 2019-05-26 21:40:03,037 log 228 Internal Server Error: /
+Traceback (most recent call last):
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/urls/base.py", line 75, in reverse
+    extra, resolver = resolver.namespace_dict[ns]
+KeyError: 'users'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pyvip/github/myblog/mysite/apps/news/views.py", line 6, in new
+    return render(request,"news/index.html")
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/shortcuts.py", line 36, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/loader.py", line 62, in render_to_string
+    return template.render(context, request)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/backends/django.py", line 61, in render
+    return self.template.render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 171, in render
+    return self._render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/loader_tags.py", line 150, in render
+    return compiled_parent._render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 163, in _render
+    return self.nodelist.render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/defaulttags.py", line 309, in render
+    return nodelist.render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 937, in render
+    bit = node.render_annotated(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/base.py", line 904, in render_annotated
+    return self.render(context)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/template/defaulttags.py", line 442, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "/home/pyvip/.virtualenvs/tz1990/lib/python3.5/site-packages/django/urls/base.py", line 86, in reverse
+    raise NoReverseMatch("%s is not a registered namespace" % key)
+django.urls.exceptions.NoReverseMatch: 'users' is not a registered namespace
+ERROR 2019-05-26 21:40:03,040 basehttp 154 "GET / HTTP/1.1" 500 146939
+INFO 2019-05-26 21:42:01,016 basehttp 154 "GET / HTTP/1.1" 200 16920
+INFO 2019-05-26 21:42:01,037 basehttp 154 "GET /static/css/base/side.css HTTP/1.1" 200 4428
+INFO 2019-05-26 21:42:01,045 basehttp 154 "GET /static/js/base/message.js HTTP/1.1" 200 3570
+INFO 2019-05-26 21:42:01,065 basehttp 154 "GET /static/images/wechat.jpg HTTP/1.1" 200 41182
+WARNING 2019-05-26 21:42:03,072 basehttp 154 "GET /static/images/favicon.ico HTTP/1.1" 404 1678
+INFO 2019-05-26 21:43:07,127 basehttp 154 "GET / HTTP/1.1" 200 16920
+WARNING 2019-05-26 21:43:33,344 log 228 Not Found: /doc/docDownload.html
+WARNING 2019-05-26 21:43:33,347 basehttp 154 "GET /doc/docDownload.html HTTP/1.1" 404 2054
+WARNING 2019-05-26 21:43:37,680 log 228 Not Found: /users/register.html
+WARNING 2019-05-26 21:43:37,681 basehttp 154 "GET /users/register.html HTTP/1.1" 404 2051
+INFO 2019-05-26 21:55:23,522 basehttp 154 "GET / HTTP/1.1" 200 16920

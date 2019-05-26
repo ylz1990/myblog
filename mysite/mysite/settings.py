@@ -67,7 +67,7 @@ TEMPLATES = [
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
             ],
-                'builtins': ['django.templatetags.static'],
+            'builtins': ['django.templatetags.static'],
         },
     },
 ]
@@ -93,6 +93,8 @@ DATABASES = {
         },
     }
 }
+# 自定义用户模型
+AUTH_USER_MODEL = 'users.Users'
 
 CACHES = {
     "default": {
