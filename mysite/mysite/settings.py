@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'users',
     'doc',
     'course',
+    "verifications"
 ]
 
 MIDDLEWARE = [

@@ -28,7 +28,7 @@
     <!-- nav start -->
     <nav class="nav">
       <ul class="menu">
-        <li><a href="index.html">首页</a></li>
+        <li><a href="{% url 'news:index' %}">首页</a></li>
         <li><a href="../course/course.html">在线课堂</a></li>
         <li><a href="../doc/docDownload.html">下载文档</a></li>
         <li><a href="search.html">搜索</a></li>
@@ -52,7 +52,7 @@
           <div>
               <i class="PyWhich py-user"></i>
               <span>
-                  <a href="../users/login.html" class="login">登录</a> / <a href="../users/register.html"
+                  <a href="../users/login.html" class="login">登录</a> / <a href="{% url 'users:register' %}"
                                                                           class="reg">注册</a>
               </span>
           </div>
