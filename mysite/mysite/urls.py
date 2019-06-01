@@ -20,6 +20,6 @@ from django.conf import settings
 
 urlpatterns = [
     path('', include("news.urls")),
-    path('', include("users.urls")),
+    path('users/', include("users.urls")),
     path('', include("verifications.urls")),
 ]
