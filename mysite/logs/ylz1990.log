@@ -749,3 +749,38 @@ INFO 2019-06-01 17:24:53,159 basehttp 154 "POST /users/login/ HTTP/1.1" 200 86
 INFO 2019-06-01 17:24:54,000 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4595
 INFO 2019-06-01 17:24:54,046 views 40 Image_code: FMGP
 INFO 2019-06-01 17:24:54,048 basehttp 154 "GET /image_codes/0a45a3b2-e989-4854-b2c3-33bbd17fb435/ HTTP/1.1" 200 3495
+INFO 2019-06-01 19:14:31,203 basehttp 154 "GET / HTTP/1.1" 200 16894
+WARNING 2019-06-01 19:14:31,416 basehttp 154 "GET /static/images/favicon.ico HTTP/1.1" 404 1678
+INFO 2019-06-01 19:14:34,415 basehttp 154 "GET /users/logout/ HTTP/1.1" 302 0
+INFO 2019-06-01 19:14:34,424 basehttp 154 "GET /users/login/ HTTP/1.1" 200 3754
+INFO 2019-06-01 19:14:34,439 basehttp 154 "GET /static/js/users/login.js HTTP/1.1" 304 0
+INFO 2019-06-01 19:14:39,732 basehttp 154 "POST /users/login/ HTTP/1.1" 200 86
+INFO 2019-06-01 19:14:40,595 basehttp 154 "GET / HTTP/1.1" 200 16894
+INFO 2019-06-01 19:14:46,771 basehttp 154 "GET /users/logout/ HTTP/1.1" 302 0
+INFO 2019-06-01 19:14:46,780 basehttp 154 "GET /users/login/ HTTP/1.1" 200 3754
+INFO 2019-06-01 19:14:49,612 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4606
+INFO 2019-06-01 19:14:49,678 views 40 Image_code: A3B7
+INFO 2019-06-01 19:14:49,678 basehttp 154 "GET /image_codes/0a8ecc7b-2b8b-480b-bfa5-8d941943e177/ HTTP/1.1" 200 3098
+INFO 2019-06-01 19:14:53,962 basehttp 154 "GET /usernames/zhangsan/ HTTP/1.1" 200 74
+WARNING 2019-06-01 19:14:54,081 log 228 Not Found: /users/users/login.html
+WARNING 2019-06-01 19:14:54,082 basehttp 154 "GET /users/users/login.html HTTP/1.1" 404 3382
+WARNING 2019-06-01 19:14:54,124 log 228 Not Found: /favicon.ico
+WARNING 2019-06-01 19:14:54,125 basehttp 154 "GET /favicon.ico HTTP/1.1" 404 2928
+INFO 2019-06-01 19:14:59,080 views 40 Image_code: L6XX
+INFO 2019-06-01 19:14:59,081 basehttp 154 "GET /image_codes/98727bb1-38cf-4f63-9975-a06e13029ace/ HTTP/1.1" 200 2512
+INFO 2019-06-01 19:15:05,968 basehttp 154 "GET /usernames/zhangsan/ HTTP/1.1" 200 74
+INFO 2019-06-01 19:15:06,051 basehttp 154 "GET / HTTP/1.1" 200 16905
+WARNING 2019-06-01 19:15:38,061 log 228 Not Found: /users/login.html
+WARNING 2019-06-01 19:15:38,062 basehttp 154 "GET /users/login.html HTTP/1.1" 404 3364
+INFO 2019-06-01 19:16:37,677 basehttp 154 "GET / HTTP/1.1" 200 16899
+INFO 2019-06-01 19:16:39,984 basehttp 154 "GET /users/login/ HTTP/1.1" 200 3748
+INFO 2019-06-01 19:16:44,259 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4600
+INFO 2019-06-01 19:16:44,304 views 40 Image_code: VHVJ
+INFO 2019-06-01 19:16:44,305 basehttp 154 "GET /image_codes/b25d14c3-84dc-439e-986f-567886b5094d/ HTTP/1.1" 200 3274
+INFO 2019-06-01 19:16:45,090 basehttp 154 "GET /usernames/zhangsan/ HTTP/1.1" 200 74
+INFO 2019-06-01 19:16:45,176 basehttp 154 "GET /users/login/ HTTP/1.1" 200 3748
+INFO 2019-06-01 19:16:46,982 basehttp 154 "POST /users/login/ HTTP/1.1" 200 86
+INFO 2019-06-01 19:16:47,832 basehttp 154 "GET /users/register/ HTTP/1.1" 200 4595
+INFO 2019-06-01 19:16:47,878 views 40 Image_code: NOKF
+INFO 2019-06-01 19:16:47,879 basehttp 154 "GET /image_codes/5907bbd0-f7f6-4d03-8c32-a4304a206585/ HTTP/1.1" 200 3198
+INFO 2019-06-01 19:16:53,251 basehttp 154 "GET /usernames/zhangsan/ HTTP/1.1" 200 74
